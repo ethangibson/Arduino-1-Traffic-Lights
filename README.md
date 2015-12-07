@@ -1,2 +1,2 @@
-# Arduino-1-Trafflis-Lights
+# Arduino-1-Traffic-Lights
 Arduino Traffic Lights
